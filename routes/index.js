@@ -4,17 +4,17 @@ var router = express.Router();
 let messages = [
   {
     user: "Frank",
-    message: "testing 1 2 3",
+    message: "First test message",
     time: new Date()
   },
   {
     user: "John",
-    message: "still testing lol",
+    message: "Second test message",
     time: new Date()
   },
   {
     user: "Gizmo",
-    message: "Old boy",
+    message: "Final Test message",
     time: new Date()
   }
 ];

@@ -1,10 +1,12 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 'Sen', sans-serif;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: #A0DDFF;
 }
 
 a {
@@ -13,17 +15,23 @@ a {
 
 .messagebox {
   border: 1px black solid;
+  background-color: #67AAF9;
   width: 40%;
   padding: 15px;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+  font-family: 'Comfortaa', cursive;
 }
 
 .username {
   font-size: 120%;
   font-weight: 600;
   margin-bottom: 10px;
+}
+
+.messagebox-message{
+  font-family: 'Roboto Slab', serif;
 }
 
 .timestamp{

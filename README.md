@@ -3,8 +3,8 @@ Part of Odin Project - Mini message board implemented with a node.js server
 
 ![mainpage][homescreen]
 
-[homescreen]: https://github.com/Prometheus59/mini-message-board/tree/master/public/imageshomescreen.png "Main App Page"
+[homescreen]: https://github.com/Prometheus59/mini-message-board/blob/master/public/images/homescreen.png
 
-![mainpage][inputform]
+![addpage][inputform]
 
-[inputform]: https://github.com/Prometheus59/mini-message-board/tree/master/public/inputform.png "Input Form"
+[inputform]: https://github.com/Prometheus59/mini-message-board/blob/master/public/images/inputform.png
